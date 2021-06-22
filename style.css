@@ -1,0 +1,104 @@
+
+
+
+
+
+.card {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 1rem;
+    border: none;
+    
+}
+  .bg1{
+        
+    background-image: url("https://newschicago.net/wp-content/uploads/sites/28/2018/04/Web-Designer.jpg");
+
+     height: 100%;
+  
+
+     
+     background-repeat: no-repeat;
+     background-size: cover;
+
+  }
+.bg2 {
+   
+    background-image: url("http://www.nyxditech.com/blog/wp-content/uploads/2019/02/Web-Designing.jpg");
+  
+   
+    height: 100%;
+  
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+  }
+
+  #submit{
+      border-radius: 10em;
+
+  }
+.fa:hover{
+    opacity: 0.8;
+
+}
+
+
+.contact {
+  padding-bottom: 130px;
+}
+
+.contact .info {
+  padding: 30px;
+  background: #fff;
+  width: 100%;
+  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+}
+
+.contact .info i {
+  font-size: 20px;
+  color: #149ddd;
+  float: left;
+  width: 44px;
+  height: 44px;
+  background: #dff3fc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  
+}
+
+.contact .info h4 {
+  padding: 0 0 0 60px;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #050d18;
+}
+
+.contact .info p {
+  padding: 0 0 10px 60px;
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: #173b6c;
+}
+.contact .info .email p {
+  padding-top: 5px;
+}
+.contact .info .social-links {
+  padding-left: 60px;
+}
+
+.contact .php-email-form {
+  width: 100%;
+  padding: 30px;
+  background: #fff;
+  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+}
+
+
+  
